@@ -1,4 +1,4 @@
-[![DOI](https://doi.org/10.5281/zenodo.17334896)
+[![DOI](https://doi.org/10.5281/zenodo.17334896)]
 
 # CLARA_VISIO
 
