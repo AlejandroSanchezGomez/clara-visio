@@ -1,3 +1,5 @@
+[![DOI](https://doi.org/10.5281/zenodo.17334896)
+
 # CLARA_VISIO
 
 **CLARA_VISIO** is an exploratory project in computational neuroscience, aimed at simulating aspects of the human retina.  
